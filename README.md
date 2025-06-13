@@ -2,7 +2,7 @@
 
 Contains essential code to scrape and collect Danish news and extract features from text, images, and faces. Formats features into a token-based dataset.
 
-The code is developed in relation to the paper XXX. The paper contains appropriate citations of the components and on details of e.g. the dataset of faces to recognise. 
+The code is developed in relation to the paper https://github.com/Christianmoelby/Feature-extraction-Danish-news/blob/2207a7b8c4858b58d9841b97766e5828d0bed3e4/Media-Polarisation%20in%20Denmark.pdf. The paper contains appropriate citations of the components and on details of e.g. the dataset of faces to recognise. 
 
 ## 🚀 Project Overview
 
