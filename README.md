@@ -2,7 +2,7 @@
 
 Contains essential code to scrape and collect Danish news and extract features from text, images, and faces. Formats features into a token-based dataset.
 
-The code is developed in relation to the paper Media-Polarisation in Denmark.pdf. The paper contains appropriate citations of the components and on details of e.g. the dataset of faces to recognise. 
+The code is developed in relation to the paper Media-Polarisation in Denmark [here](https://github.com/Christianmoelby/Feature-extraction-Danish-news/blob/main/Media-Polarisation%20in%20Denmark.pdf). The paper contains appropriate citations of the components and on details of e.g. the dataset of faces to recognise. 
 
 ## 🚀 Project Overview
 
